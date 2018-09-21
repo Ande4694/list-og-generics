@@ -1,0 +1,3 @@
+https://www.google.dk/search?q=java+generics&oq=java+generics&aqs=chrome..69i57j69i60l4j69i65.5576j0j7&sourceid=chrome&ie=UTF-8
+
+Generics in Java. Generics are a facility of generic programming that were added to the Java programming language in 2004 within version J2SE 5.0. They were designed to extend Java's type system to allow “a type or method to operate on objects of various types while providing compile-time type safety”.
